@@ -1,0 +1,100 @@
+[
+  {
+    "image": "c_board.jpg",
+    "description_of_prompt": " 这张照片展示了一个繁忙的城市广场夜景。画面中央是一个巨大的电子广告牌，上面播放着各种广告和电影宣传海报。广告牌上最显眼的是一个红色背景的海报，上面写着“THEY DON'T MAKE 'EM LIKE THEY USED TO. WE DO.”，旁边是一双白色的运动鞋。下方还有其他几个广告，包括一个黄色汽车的广告和一个电影海报，上面写着“IN CINEMAS & IMAX TUESDAY BOOK NOW”，并展示了电影《死侍》的角色。\n\n广告牌周围是来往的行人，他们大多低头看手机或四处走动。广场上铺着石砖，地面上有一些反光的金属片。左侧有一个交通信号灯，上面写着“WAIT”。远处可以看到一些古典建筑，建筑物的灯光在夜色中显得格外醒目。右侧有一盏路灯，发出温暖的光芒。整个场景在夜晚的背景下显得非常热闹，充满了都市生活的气息。",
+    "prompt_token_count": 2270,
+    "generated_token_count": 2471,
+    "answer_token_count": 201
+  },
+  {
+    "image": "c_board.jpg",
+    "description_of_prompt": " 这张图片展示了一个繁华的城市夜景，画面中心是一块巨大的电子广告牌，上面播放着各种广告内容。广告牌上色彩鲜艳，吸引眼球，其中包含汽车、女性形象和电影宣传等元素。广告牌下方是一个繁忙的街道，人们在街道上来来往往，有的在行走，有的在交谈，还有的在使用手机。街道两侧是古典建筑风格的建筑物，灯光昏暗但不失庄重。远处可以看到一些建筑工地的起重机，表明城市正在不断发展。整个场景在夜晚的背景下显得非常热闹，充满了都市生活的气息。",
+    "prompt_token_count": 2528,
+    "generated_token_count": 2653,
+    "answer_token_count": 125
+  },
+  {
+    "image": "c_coffeelover.jpg",
+    "description_of_prompt": " 这张图片展示了一个霓虹灯招牌，上面用白色发光的字母写着“coffeelovers”。招牌被安装在一个深绿色的墙面上，墙面上方有一块灰色的砖石装饰。招牌下方可以看到一个金属制的咖啡机的一部分，顶部有两个银色的把手。整个画面光线柔和，给人一种温馨舒适的感觉。",
+    "prompt_token_count": 2270,
+    "generated_token_count": 2344,
+    "answer_token_count": 74
+  },
+  {
+    "image": "c_coffeelover.jpg",
+    "description_of_prompt": " 这张图片展示了一个霓虹灯招牌，上面用白色霓虹灯管写着“coffeelovers”。招牌悬挂在深绿色的墙面上，背景简洁，突出了招牌的亮色文字。招牌下方可以看到一部分金属制的咖啡机，顶部有两个银色的把手，暗示这是一个咖啡店的入口或内部装饰的一部分。整体色调偏暗，给人一种温馨而复古的感觉。",
+    "prompt_token_count": 2528,
+    "generated_token_count": 2613,
+    "answer_token_count": 85
+  },
+  {
+    "image": "c_jesus.jpg",
+    "description_of_prompt": " 这张图片展示了一本打开的书页，页面上印有黑色的中文文字。书页左侧的文字部分较为密集，右侧则留出了更多的空白区域。文字内容看起来像是圣经的一部分，其中提到了耶稣使五千人吃饱的故事。页面右上角标有数字“47”，可能表示这是第47页。书页的边缘有一条红色的装饰线条，增加了页面的美观度。光线从上方照射下来，使得页面上的文字清晰可见。",
+    "prompt_token_count": 4409,
+    "generated_token_count": 4513,
+    "answer_token_count": 104
+  },
+  {
+    "image": "c_jesus.jpg",
+    "description_of_prompt": " 这张图片展示了一本打开的书页，书页上印有黑色的中文文字。书页的左侧边缘有一部分被裁剪掉，右侧边缘则清晰可见。书页上的文字排版整齐，每行之间留有一定的间距，便于阅读。页面的右上角标有数字“47”，表明这是第47页。页面底部的文字描述了一个关于耶稣的故事，其中包含了具体的章节和节次号，例如“太14:13-21；路9:10-17；约6:1-14”。文字内容涉及耶稣使五千人吃饱的故事，描述了耶稣如何聚集门徒，并吩咐他们去旷野休息，以及耶稣如何怜悯饥饿的人群并提供食物。页面的左下角部分被裁剪掉，但可以看到一些文字内容，但由于角度和裁剪的关系，无法完全辨认出具体内容。整体来看，这是一本宗教书籍，内容涉及圣经故事。",
+    "prompt_token_count": 4667,
+    "generated_token_count": 4874,
+    "answer_token_count": 207
+  },
+  {
+    "image": "c_osaka.jpg",
+    "description_of_prompt": " 这张图片展示了一个繁华的城市夜景，画面中央是一块巨大的电子显示屏，上面有一个醒目的广告牌。广告牌上是一个穿着白色运动服的运动员形象，他双臂高举，双腿弯曲，似乎在庆祝胜利或冲刺。广告牌上方醒目地写着“Glica”，下方则有日文字符，可能是品牌名称或宣传语。广告牌的背景是蓝色的跑道图案，给人一种运动和活力的感觉。\n\n周围的建筑物上装饰着各种霓虹灯招牌，色彩鲜艳，字体各异。左侧有一个带有雪花图案的招牌，右侧则是多个不同品牌的广告牌，包括“プロミス”、“CHINTAI”等。这些招牌上不仅有文字，还有卡通形象和图案，增加了画面的趣味性和吸引力。背景中还可以看到一些模糊的建筑物轮廓和灯光，显示出这是一个商业区或繁华地段。\n\n整个画面充满了夜晚城市的喧嚣与活力，霓虹灯的光芒在黑暗中显得格外耀眼，营造出一种热闹非凡的氛围。",
+    "prompt_token_count": 4409,
+    "generated_token_count": 4620,
+    "answer_token_count": 211
+  },
+  {
+    "image": "c_osaka.jpg",
+    "description_of_prompt": " 这张图片展示了一个繁华的城市夜景，画面中心是一块巨大的电子显示屏，上面有一个著名的广告牌，广告牌上是一个穿着白色背心和短裤的运动员形象，他双臂高举，双腿弯曲，仿佛在庆祝胜利。这个广告牌上方醒目地写着“Glica”，下方则有日文字符“グリコ”。广告牌的背景是蓝色的跑道图案，给人一种运动和活力的感觉。\n\n周围的建筑上挂满了各种霓虹灯招牌，色彩鲜艳，字体各异。左侧有一个黑色背景的广告牌，上面有白色的雪花图案和日文“雪印”。右侧则是多个不同颜色和形状的广告牌，包括黄色、红色和绿色的招牌，上面有各种日文字符和图案。其中，一个红色的招牌上有一个绿色的卡通人物形象，旁边还有一些日文和英文的文字。\n\n整个画面充满了夜晚城市的喧嚣和活力，霓虹灯的光芒在黑暗中显得格外耀眼。远处可以看到一些模糊的人影，似乎是在观看或经过这条繁华的街道。整体氛围热闹非凡，充满了都市的动感和现代感。",
+    "prompt_token_count": 4667,
+    "generated_token_count": 4900,
+    "answer_token_count": 233
+  },
+  {
+    "image": "c_sujing.jpg",
+    "description_of_prompt": " 这张图片展示了一个安装在浅棕色墙面上的方形发光标识牌。标识牌的背景是明亮的黄色，边缘有一圈银色的金属边框，显得简洁而现代。标识牌上醒目地印有两组红色的汉字，分别是“肃静”，字体粗大且笔画清晰，给人一种庄重和严肃的感觉。光线从标识牌内部发出，使得文字更加突出，同时也照亮了周围的墙面。整个画面简洁明了，没有多余的装饰或干扰元素，突出了标识牌本身的信息传达功能。",
+    "prompt_token_count": 2270,
+    "generated_token_count": 2386,
+    "answer_token_count": 116
+  },
+  {
+    "image": "c_sujing.jpg",
+    "description_of_prompt": " 这张图片展示了一个安装在浅棕色墙面上的发光标识牌。标识牌的背景是明亮的黄色，上面醒目地印有红色的汉字“肃静”。这两个字的字体较大，采用了简洁有力的设计风格，给人一种庄重和严肃的感觉。标识牌的边缘被银色金属框架包围，增加了其现代感和坚固性。整个画面的光线较为均匀，突出了标识牌的鲜艳色彩和文字的清晰度。",
+    "prompt_token_count": 2528,
+    "generated_token_count": 2625,
+    "answer_token_count": 97
+  },
+  {
+    "image": "c_surfing_high.jpg",
+    "description_of_prompt": " 这张图片展示了一片开阔的荒漠景观，背景是连绵起伏的山脉，天空湛蓝，散布着几朵白云。前景中，一块白色的冲浪板竖立在一片干枯的草地上，冲浪板上用蓝色的笔迹写着各种信息，包括“ESCUELA DE VELA”，“CURSOS”，“WINDSURF”，“PADDLE SURF”，“ALQUILER HIDROPEDAL”，“RUTAS KAYAKS”，“PASEOS BARCO Y VELA DEPORTIVA”，“WWW.GATAVENTURA.COM”，“610 10 6516”，以及“JUNTO AL TORRÓN”。冲浪板的影子投射在地面上，显示出阳光从画面左侧照射过来。草地呈现出黄褐色，与蓝天形成了鲜明的对比。整个场景给人一种宁静而荒凉的感觉，仿佛是在一个远离城市喧嚣的地方。",
+    "prompt_token_count": 4064,
+    "generated_token_count": 4268,
+    "answer_token_count": 204
+  },
+  {
+    "image": "c_surfing_high.jpg",
+    "description_of_prompt": " 这张图片展示了一片开阔的荒漠景观，远处是连绵起伏的山脉，天空湛蓝，几朵白云悠闲地漂浮着。前景中，一块白色的冲浪板竖立在一片干枯的草地上，上面用蓝色的笔迹写着各种信息。冲浪板上醒目地标注着“ESCUELA DE VELA”，意为帆船学校，并列出了课程项目，如帆船、风帆冲浪、桨板冲浪等。此外，还提到了租赁服务，如水翼板和划艇。图片下方还写有网址“www.gataventura.com”和一个电话号码“610 10 6516”。冲浪板的右侧有一个蓝色的箭头指向某个方向，似乎在指引游客前往某个地点。周围的草地稀疏，呈现出一种荒凉而宁静的氛围，阳光从画面左侧斜射下来，给整个场景增添了一丝温暖的色调。",
+    "prompt_token_count": 4322,
+    "generated_token_count": 4529,
+    "answer_token_count": 207
+  },
+  {
+    "image": "c_surfing_low.jpg",
+    "description_of_prompt": " 这张图片展示了一片开阔的荒野景象，背景是连绵起伏的山脉，天空呈现出淡蓝色，散布着几朵白云。前景中，一块白色的冲浪板竖立在一片干枯的草地上，冲浪板上用黑色的笔迹写着各种文字，包括“ESCUELA VELA”，“CURSOS WINDSURF VELA PADDLE SURF”，“ALQUILER HIDROPEDAL”，“RUTAS Y KAYAKS”，“PASEOS Y BARCO”，“VELA DEPORTIVA”，以及一个网址“www.GATAVENTURA.com”和电话号码“610 10 6516”。冲浪板的影子投射在草地上，显示出太阳的位置是在画面的右侧。整个场景给人一种宁静而略带荒凉的感觉，似乎是一个远离城市喧嚣的地方，适合进行水上运动和户外探险。",
+    "prompt_token_count": 2270,
+    "generated_token_count": 2468,
+    "answer_token_count": 198
+  },
+  {
+    "image": "c_surfing_low.jpg",
+    "description_of_prompt": " 这张图片展示了一片开阔的荒野景象，背景是连绵起伏的山脉，天空呈现出淡蓝色，散布着几朵白云。前景中，一块白色的冲浪板竖立在一片干枯的草地上，冲浪板上用黑色的笔迹写着各种信息，包括“ESCUELA VELA”、“CURSOS WINDSURF VELA PADDLE SURF”、“ALQUILER HIDROPEDAL”、“RUTAS Y KAYAKS”、“PASEOS Y BARCO”、“VELA DEPORTIVA”等字样，还附有网址“www.gataventura.com”和电话号码“610 10 6516”。冲浪板的右侧有一个蓝色的箭头指向下方，似乎在指引方向。草地上的植被稀疏，呈现出黄色调，显示出干旱的气候特征。阳光从画面左侧照射过来，给整个场景投下了长长的影子，营造出一种宁静而略带荒凉的氛围。",
+    "prompt_token_count": 2528,
+    "generated_token_count": 2745,
+    "answer_token_count": 217
+  }
+]
