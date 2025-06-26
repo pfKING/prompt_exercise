@@ -1,8 +1,9 @@
 # 000.更新
 ```markdown
-1.更新 qwen_abstract.json (done)
-2.使用gemini-2.5-flash 生成 gemini_description.json(doing)
-3.使用gemini-2.5-flash 生成 gemini_abstract.json(doing)
+1.使用qwen2.5_vl 生成 qwen_abstract.json (done)
+2.使用gemini-2.5-flash 生成 gemini_description.json(done)
+3.使用gemini-2.5-flash 生成 gemini_abstract.json(done)
+4.迭代prompt
 ```
 # 0.文件描述
 ```markdown
@@ -15,12 +16,14 @@ a.关于图像数据
 3.concat：既有1，又有2，例如广告牌，牌匾，公交指示标
 
 b.关于json
-qwen_description:
-qwen_abstract:
-gemini_description:
-gemini_abstract:
-每个文件夹中都有json文件，展示了该文件夹下的每一个图像的v0，v1，v2版本的prompt的输出以及token长度。
-图片有简单的命名描述了图片大概物体
+qwen_description:qwen生成的详细描述  qwen2.5_vl 7b 
+qwen_abstract:qwen生成的概括描述
+gemini_description:gemini生成的详细描述 gemini-2.5-flash
+gemini_abstract：gemini生成的概括描述
+
+description中有三版prompt
+abstract中有两版prompt：在qwen中的回复基本一样，还在更新中
+
 
 c.关于实验部分
 1.目前使用本地部署的Qwen2.5-VL-7B-Instruct
