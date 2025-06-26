@@ -1,0 +1,58 @@
+[
+  {
+    "image": "c_board.jpg",
+    "description_of_prompt": "夜幕下的城市街道上，一座建筑外墙上安装着多个大型数字广告牌，其下方有许多行人在街道上活动。"
+  },
+  {
+    "image": "c_board.jpg",
+    "description_of_prompt": "图像显示了夜色下的城市街道景象，一栋建筑的弧形立面上装有多块大型数字广告牌，牌上显示着各类广告。画面中有多名行人在街道上活动，前景处有一盏亮着的街灯。"
+  },
+  {
+    "image": "c_coffeelover.jpg",
+    "description_of_prompt": "一张带有白色霓虹灯字样的“coffeelovers”招牌悬挂在深色墙面上，下方可见一个台面。"
+  },
+  {
+    "image": "c_coffeelover.jpg",
+    "description_of_prompt": "一张图片展示了夜间或暗光环境下，一个发光的霓虹灯招牌，上面用手写体写着“coffeelovers”字样。招牌下方是一个深色柜台，其上放置着两个金属容器。"
+  },
+  {
+    "image": "c_jesus.jpg",
+    "description_of_prompt": "画面中一本打开的书籍平放在表面，书页上印有清晰的中文文字。书的右侧页面内容在画面中占据了主要部分，并能看到页边有一条红色的竖线。"
+  },
+  {
+    "image": "c_jesus.jpg",
+    "description_of_prompt": "画面呈现一本翻开的书，书页上印有中文文字，右侧页面标题显示为“马可福音”和“耶稣使五千人吃饱”，并可见页码“47”。"
+  },
+  {
+    "image": "c_osaka.jpg",
+    "description_of_prompt": "夜晚的城市街景中，多栋建筑外墙悬挂着大量霓虹灯招牌和广告牌，其中包含中央区域显著的格力高跑者大型广告牌。"
+  },
+  {
+    "image": "c_osaka.jpg",
+    "description_of_prompt": "画面呈现了夜晚城市中，多栋建筑外墙上悬挂着众多明亮的霓虹广告牌，其中包括一个跑步运动员形象广告牌和多个带有日文文字的广告牌。"
+  },
+  {
+    "image": "c_sujing.jpg",
+    "description_of_prompt": "一块矩形发光招牌垂直悬挂在浅色墙面上，招牌为黄色底面，上面印有红色中文字符。"
+  },
+  {
+    "image": "c_sujing.jpg",
+    "description_of_prompt": "一个黄底红字的矩形灯箱悬挂在一面浅棕色的墙壁上，灯箱内显示“请勿喧哗”四个中文字样。"
+  },
+  {
+    "image": "c_surfing_high.jpg",
+    "description_of_prompt": "一块带有蓝色文字的白色冲浪板状指示牌竖立在前景的草地和沙地中，背景是连绵的山脉和局部有云的蓝天。"
+  },
+  {
+    "image": "c_surfing_high.jpg",
+    "description_of_prompt": "一张白色冲浪板立在前景的草地和沙地中，板上写有蓝色文字。其后方是山脉和天空中的云。"
+  },
+  {
+    "image": "c_surfing_low.jpg",
+    "description_of_prompt": "一块写有文字的白色冲浪板竖立在草地上，背景是连绵起伏的山脉和蓝天白云。"
+  },
+  {
+    "image": "c_surfing_low.jpg",
+    "description_of_prompt": "一块写有蓝色文字的白色冲浪板立在长有杂草的地面上，其后方是连绵的山脉和多云的天空。"
+  }
+]

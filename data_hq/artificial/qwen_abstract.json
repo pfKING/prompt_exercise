@@ -36,10 +36,10 @@
   },
   {
     "image": "a_mancloud.png",
-    "description_of_prompt": " 一个人站在梯子上伸手触摸上方的云朵。",
+    "description_of_prompt": " 一个人站在梯子上伸手触碰上方的云朵。",
     "prompt_token_count": 1870,
-    "generated_token_count": 1884,
-    "answer_token_count": 14
+    "generated_token_count": 1885,
+    "answer_token_count": 15
   },
   {
     "image": "a_mountain-7300017_1280.jpg",

@@ -1,0 +1,50 @@
+[
+  {
+    "image": "a_harddraw.webp",
+    "description_of_prompt": "画面呈现了一张以黑白线条绘制的建筑线稿图，从透视角度展示了建筑的立体结构。"
+  },
+  {
+    "image": "a_harddraw.webp",
+    "description_of_prompt": "图像显示一张黑白线稿图，以透视角度描绘了一座多层建筑的外部轮廓与结构细节，包括门窗和台阶。"
+  },
+  {
+    "image": "a_kurumas.jpg",
+    "description_of_prompt": "图片展示了大量不同大小和颜色的齿轮，如米色、蓝色和红色，它们散布在浅蓝色背景上。"
+  },
+  {
+    "image": "a_kurumas.jpg",
+    "description_of_prompt": "图像显示了多种尺寸的齿轮，它们以蓝色、粉色和米白色分布在一个淡蓝色背景上。"
+  },
+  {
+    "image": "a_mancloud.png",
+    "description_of_prompt": "画面中，一个人站在梯子顶端，双手向上托举着一个白色的立体云朵符号。"
+  },
+  {
+    "image": "a_mancloud.png",
+    "description_of_prompt": "画面中，一个人站在梯子顶端，双手托举着一朵白色的云。"
+  },
+  {
+    "image": "a_mountain-7300017_1280.jpg",
+    "description_of_prompt": "这张椭圆形插画描绘了起伏的绿色山丘，一条蜿蜒的小路通向山顶的一栋房屋，背景是层叠的蓝色山脉和天空中的朵朵白云。"
+  },
+  {
+    "image": "a_mountain-7300017_1280.jpg",
+    "description_of_prompt": "画面呈椭圆形，前景是绿色的山丘和树木，一条白色小路通向山坡上的一栋房屋；背景是蓝色山脉和天空中的云朵。"
+  },
+  {
+    "image": "a_plane_design.webp",
+    "description_of_prompt": "图片展示了一架白色客机在蓝色背景下的侧面、正面和顶部三个不同视角视图。"
+  },
+  {
+    "image": "a_plane_design.webp",
+    "description_of_prompt": "一架白色客机以侧视图、前视图和俯视图三种不同视角呈现在纯蓝色背景上。"
+  },
+  {
+    "image": "a_向日葵.webp",
+    "description_of_prompt": "画面中，一个插有三朵黄色花朵的白色花瓶放置在铺有格纹桌布的桌面上。旁边摆放着一本黄色小书，背景墙上悬挂着一幅描绘山水景观的画作。"
+  },
+  {
+    "image": "a_向日葵.webp",
+    "description_of_prompt": "一张棕色格纹桌子上摆放着一个白色花瓶，瓶中插有三朵黄色花朵，旁边放着一本黄色书籍。背景墙上挂有一幅描绘山水风景的画。"
+  }
+]

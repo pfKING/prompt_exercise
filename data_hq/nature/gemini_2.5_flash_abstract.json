@@ -1,0 +1,50 @@
+[
+  {
+    "image": "androgynous.jpg",
+    "description_of_prompt": "画面中一人正对镜头，留着深色头发，佩戴多层珍珠项链和一只耳饰，身穿白色上衣，背景为纯蓝色。"
+  },
+  {
+    "image": "androgynous.jpg",
+    "description_of_prompt": "一个人物的半身像特写，其头发呈湿润状，佩戴着多串珍珠项链和一只长耳饰，直视前方，背景为纯蓝色。"
+  },
+  {
+    "image": "churchbird.jpg",
+    "description_of_prompt": "画面中心是一座带有新月星形塔尖的圆顶建筑，大量鸟群在其周围和天空盘旋飞翔，背景是密集的城市建筑和通信塔。"
+  },
+  {
+    "image": "churchbird.jpg",
+    "description_of_prompt": "画面中央是一个带有星月标志的白色圆顶建筑，大量鸟群在其周围飞舞。背景是密集的城市建筑和多个高耸的信号塔。"
+  },
+  {
+    "image": "girl-6210483_1280.jpg",
+    "description_of_prompt": "一位身穿校服的年轻女性倚靠在栏杆上，面向镜头露出笑容，背景是模糊的绿树、水面和远处的桥梁。"
+  },
+  {
+    "image": "girl-6210483_1280.jpg",
+    "description_of_prompt": "画面中，一名短发女性身着制服式服装，双手搭在栏杆上，面向画面露出微笑。背景是模糊的绿色树木、水面和远处的桥梁。"
+  },
+  {
+    "image": "nightbird.jpg",
+    "description_of_prompt": "一只白色鹭鸟站在深色背景下的树枝上。"
+  },
+  {
+    "image": "nightbird.jpg",
+    "description_of_prompt": "一只白色鹭鸟栖息在深色树枝上，面向画面右侧，背景为黑暗且模糊的景象。"
+  },
+  {
+    "image": "titian.jpg",
+    "description_of_prompt": "画面呈现了阳光下的山间梯田景观，田地或反射水光或覆盖绿色植被，其间点缀着几座房屋。远处层叠的山脉笼罩在薄雾中，天空中可见阳光穿透云层形成的光束。"
+  },
+  {
+    "image": "titian.jpg",
+    "description_of_prompt": "图片展示了日出或日落时分的梯田景观，水稻田层叠分布，水面反射光线，几处房屋点缀其中。远处的山脉被穿透云层的阳光照亮。"
+  },
+  {
+    "image": "worker-6322085_1280.jpg",
+    "description_of_prompt": "画面显示多名身着洁净服的工人在室内车间内工作，前景处一名工人正在处理大量堆叠的红色矩形容器。"
+  },
+  {
+    "image": "worker-6322085_1280.jpg",
+    "description_of_prompt": "画面显示多名身穿统一工作服、戴着帽子和口罩的工人在室内环境中进行作业。前景处，一名工人正在处理红色的方形容器，旁边堆放着大量同类容器。"
+  }
+]
