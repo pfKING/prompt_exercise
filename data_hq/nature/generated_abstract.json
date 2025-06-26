@@ -1,0 +1,44 @@
+[
+  {
+    "image": "androgynous.jpg",
+    "description_of_prompt": " 这张图片展示了一位穿着白色上衣、佩戴多层珍珠项链和花朵耳环的人，背景是渐变的蓝色调。",
+    "prompt_token_count": 2004,
+    "generated_token_count": 2036,
+    "answer_token_count": 32
+  },
+  {
+    "image": "churchbird.jpg",
+    "description_of_prompt": " 在一个雾蒙蒙的城市上空，一群鸟儿飞过一座装饰有星月标志的白色圆顶建筑，背景中散布着低矮的砖房和高耸的通信塔。",
+    "prompt_token_count": 1682,
+    "generated_token_count": 1725,
+    "answer_token_count": 43
+  },
+  {
+    "image": "girl-6210483_1280.jpg",
+    "description_of_prompt": " 这张图片展示了一位穿着校服的女孩靠在栏杆上微笑，背景是模糊的绿色树木和桥梁。",
+    "prompt_token_count": 1682,
+    "generated_token_count": 1710,
+    "answer_token_count": 28
+  },
+  {
+    "image": "nightbird.jpg",
+    "description_of_prompt": " 白鹭栖息于树枝上，羽毛洁白，长喙细长，背景为深色树林。",
+    "prompt_token_count": 1682,
+    "generated_token_count": 1706,
+    "answer_token_count": 24
+  },
+  {
+    "image": "titian.jpg",
+    "description_of_prompt": " 在夕阳的映照下，层层梯田与远处连绵山脉交织出一幅宁静而美丽的田园画卷。",
+    "prompt_token_count": 1498,
+    "generated_token_count": 1523,
+    "answer_token_count": 25
+  },
+  {
+    "image": "worker-6322085_1280.jpg",
+    "description_of_prompt": " 在一个工厂环境中，工人们穿着白色的工作服和帽子，戴着口罩和手套，专注地处理红色塑料容器。背景中可以看到更多的工人和整齐堆放的容器。",
+    "prompt_token_count": 1682,
+    "generated_token_count": 1720,
+    "answer_token_count": 38
+  }
+]
