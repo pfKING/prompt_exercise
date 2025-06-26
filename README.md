@@ -1,3 +1,9 @@
+# 000.更新
+```markdown
+1.更新 qwen_abstract.json (done)
+2.使用gemini-2.5-flash 生成 gemini_description.json(doing)
+3.使用gemini-2.5-flash 生成 gemini_abstract.json(doing)
+```
 # 0.文件描述
 ```markdown
 该练习是为了加深对与图像prompt理解，通过编写精确的prompt让大模型生成高质量且详细的caption，以支持后续sft任务。
