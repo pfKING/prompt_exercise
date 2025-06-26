@@ -15,6 +15,10 @@ a.关于图像数据
 3.concat：既有1，又有2，例如广告牌，牌匾，公交指示标
 
 b.关于json
+qwen_description:
+qwen_abstract:
+gemini_description:
+gemini_abstract:
 每个文件夹中都有json文件，展示了该文件夹下的每一个图像的v0，v1，v2版本的prompt的输出以及token长度。
 图片有简单的命名描述了图片大概物体
 
